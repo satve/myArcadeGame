@@ -1,18 +1,20 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
-## The Arcade Game
-It is a card matching game. It includes sixteen cards. 
+## Project Name 
+
+The Arcade Game
+ 
+## Description
+My Arcade Game contains a player and enemies(bugs). The goal of the player is to reach the water, without colliding into  one of the enemies. the player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene. once at the player collides with an enemy, the game is reset amd player moves back to the start square. Once the player reaches the water the game us won.  
 
 <img src="Screenshot (1).png" width = "300px">
 
 ## Parts Of Game
-* It has moves button. It counts the moves when you click on cards.
-<img src="Screenshot (2).png" width = "300px">
+* it has a player selection option button to select the image of player.
 
-* It counts the stars, when your flipping cards are match.  
+* It has a level counter., the level can increase when player reaches the water.  
 
-
-* It has a pop-up alert. when your all cards matched. you will get a alert near reset button.
+* when the level increase, the speed of bugs also increases vic-versa.
 <img src="Screenshot (3).png" width = "300px">
 
 ## How To Play
