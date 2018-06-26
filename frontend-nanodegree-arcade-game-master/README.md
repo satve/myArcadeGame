@@ -7,7 +7,7 @@ The Arcade Game
 ## Description
 My Arcade Game contains a player and enemies(bugs). The goal of the player is to reach the water, without colliding into  one of the enemies. the player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene. once at the player collides with an enemy, the game is reset amd player moves back to the start square. Once the player reaches the water the game us won.  
 
-<img src="Screenshot (9).png" width = "300px">
+<img src="Screenshot (9).png" width = "600px">
 
 ## Parts Of Game
 * it has a player selection option button to select the image of player.
@@ -15,7 +15,7 @@ My Arcade Game contains a player and enemies(bugs). The goal of the player is to
 * It has a level counter., the level can increase when player reaches the water.  
 
 * when the level increase, the speed of bugs also increases vic-versa.
-<img src="Screenshot (10).png" width = "300px">
+<img src="Screenshot (10).png" width = "600px">
 
 ## How To Play
 1. The game board consists of sixteen cards. It is made up of eight different pairs of cards, each card has a symbol.
